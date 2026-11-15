@@ -1,0 +1,2 @@
+class NoUniqueCulpritError(ValueError):
+    pass

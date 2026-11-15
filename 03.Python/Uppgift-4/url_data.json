@@ -1,0 +1,245 @@
+[
+    {
+        "id": "id000", 
+        "name": "Ernst Lindberg", 
+        "access": "01001010010000101"
+    },
+    {"id": "id001", "name": "Robert Bennett", "access": "00101000101000110"
+    },
+    {"id": "id002", "name": "Tina Berger", "access": "00011111010001101"
+    },
+    {"id": "id003", "name": "Michael Andersson", "access": "00101000001010111"
+    },
+    {"id": "id004", "name": "Tyler Whitney", "access": "00110101110010111"
+    },
+    {"id": "id005", "name": "Robert Swanson", "access": "10001000100000110"
+    },
+    {"id": "id006", "name": "Kelly Morrow", "access": "01101001100010010"
+    },
+    {"id": "id007", "name": "Karen Mclean", "access": "11011101010101000"
+    },
+    {"id": "id008", "name": "Romana Seifert", "access": "11000001100010111"
+    },
+    {"id": "id009", "name": "Lars Jonsson", "access": "00010010011101000"
+    },
+    {"id": "id010", "name": "Matthew Norton", "access": "10010100000110011"
+    },
+    {"id": "id011", "name": "Dittmar Gröttner B.A.", "access": "00011101010000111"
+    },
+    {"id": "id012", "name": "Marianne Hjalmarsson", "access": "00000111010010111"
+    },
+    {"id": "id013", "name": "Karl Gertz", "access": "10000010000011111"
+    },
+    {"id": "id014", "name": "Mary Horn", "access": "00001100111101111"
+    },
+    {"id": "id015", "name": "Britt Andersson", "access": "00011001000010100"
+    },
+    {"id": "id016", "name": "Irmi Harloff", "access": "10001100001001000"
+    },
+    {"id": "id017", "name": "Kimberly Spence", "access": "01110101110100101"
+    },
+    {"id": "id018", "name": "Tina Kim", "access": "01000000000111101"
+    },
+    {"id": "id019", "name": "Megan Dudley", "access": "00000010000100001"
+    },
+    {"id": "id020", "name": "Karl Karlsson", "access": "01001001001000110"
+    },
+    {"id": "id021", "name": "Siri Ljung", "access": "10010001100110101"
+    },
+    {"id": "id022", "name": "Kimberly Cross", "access": "00100100000000000"
+    },
+    {"id": "id023", "name": "Laurie Allen", "access": "00001100000000001"
+    },
+    {"id": "id024", "name": "Bertold Hövel", "access": "10011000100100010"
+    },
+    {"id": "id025", "name": "Ahmed Sköld", "access": "01100000110100110"
+    },
+    {"id": "id026", "name": "Christine King", "access": "00000010010001001"
+    },
+    {"id": "id027", "name": "Zoe Palmer", "access": "10001100101010010"
+    },
+    {"id": "id028", "name": "Arvid Knutsson", "access": "00011100000110100"
+    },
+    {"id": "id029", "name": "Shawn Padilla", "access": "11000001001010011"
+    },
+    {"id": "id030", "name": "Alida Tröst", "access": "01111101000010000"
+    },
+    {"id": "id031", "name": "Jay Ross", "access": "00111001000001111"
+    },
+    {"id": "id032", "name": "Frau Hildegunde Patberg MBA.", "access": "10110000011010011"
+    },
+    {"id": "id033", "name": "Deanna Fisher", "access": "01111110100100010"
+    },
+    {"id": "id034", "name": "Renee Johnston", "access": "10001010000000000"
+    },
+    {"id": "id035", "name": "Ulrika Karlsson", "access": "01101111010001001"
+    },
+    {"id": "id036", "name": "Ortwin Scholtz", "access": "00000100100111110"
+    },
+    {"id": "id037", "name": "John Perez", "access": "01001001001111000"
+    },
+    {"id": "id038", "name": "Mikael Nilsson", "access": "01110100011000010"
+    },
+    {"id": "id039", "name": "Kristina Kühnert", "access": "01010101000101011"
+    },
+    {"id": "id040", "name": "Klothilde Seifert", "access": "10000010110101001"
+    },
+    {"id": "id041", "name": "Dipl.-Ing. Ildiko Gutknecht B.Eng.", "access": "00011010100100111"
+    },
+    {"id": "id042", "name": "Chase Macias", "access": "00000010000010101"
+    },
+    {"id": "id043", "name": "Tammy Ward", "access": "00101011101000110"
+    },
+    {"id": "id044", "name": "Margareta Johansson Olofsson", "access": "01100100100000000"
+    },
+    {"id": "id045", "name": "Kristin Solomon", "access": "01000000001000101"
+    },
+    {"id": "id046", "name": "Thomas Garcia", "access": "01010100110101010"
+    },
+    {"id": "id047", "name": "Inna Gnatz", "access": "01101001111000000"
+    },
+    {"id": "id048", "name": "Karen Brown", "access": "01001111000000011"
+    },
+    {"id": "id049", "name": "Jacqueline Lee", "access": "00100111101011011"
+    },
+    {"id": "id050", "name": "Thomas Davis", "access": "01001101010100010"
+    },
+    {"id": "id051", "name": "Tara Miller", "access": "00101000100010111"
+    },
+    {"id": "id052", "name": "Barbara Andersson", "access": "01100001100000000"
+    },
+    {"id": "id053", "name": "Marie-Louise Wernecke", "access": "01111000101100010"
+    },
+    {"id": "id054", "name": "Carola Adolph", "access": "01001111110000001"
+    },
+    {"id": "id055", "name": "Laura Howe", "access": "10101100001000000"
+    },
+    {"id": "id056", "name": "Teresa Gardner", "access": "10011110000100001"
+    },
+    {"id": "id057", "name": "Tina Liu", "access": "10111000110101110"
+    },
+    {"id": "id058", "name": "Annette Lindau", "access": "01010111001100011"
+    },
+    {"id": "id059", "name": "Dr. Renato Zänker", "access": "11101111101000100"
+    },
+    {"id": "id060", "name": "Jolanthe Langern", "access": "11011110011100011"
+    },
+    {"id": "id061", "name": "Kelly Gonzalez", "access": "00110111011101000"
+    },
+    {"id": "id062", "name": "Hanna Andersson", "access": "10110000001101010"
+    },
+    {"id": "id063", "name": "Taylor Landry", "access": "01001000110000111"
+    },
+    {"id": "id064", "name": "John Mohammed", "access": "00110110010011010"
+    },
+    {"id": "id065", "name": "Bryan Rush", "access": "10011000000000100"
+    },
+    {"id": "id066", "name": "Dr. Knud Pölitz", "access": "00001010000000000"
+    },
+    {"id": "id067", "name": "Magnus Johansson", "access": "01000110011010010"
+    },
+    {"id": "id068", "name": "Kerstin Andersson", "access": "00010111001000101"
+    },
+    {"id": "id069", "name": "Herr Markus Ring", "access": "11111000111000100"
+    },
+    {"id": "id070", "name": "Sigfrid Lundin", "access": "01010111111000000"
+    },
+    {"id": "id071", "name": "Sherry Anderson", "access": "01110111111011011"
+    },
+    {"id": "id072", "name": "René Plath B.A.", "access": "00001101101001100"
+    },
+    {"id": "id073", "name": "Hanna Johansson", "access": "00001010000111000"
+    },
+    {"id": "id074", "name": "Janet Lopez", "access": "10100011010010100"
+    },
+    {"id": "id075", "name": "Irene Östman Persson", "access": "11100101010110000"
+    },
+    {"id": "id076", "name": "Gabriel Olson", "access": "11001100000100001"
+    },
+    {"id": "id077", "name": "Peter Palm", "access": "01100001000110000"
+    },
+    {"id": "id078", "name": "Elin Vallin", "access": "00110001010110010"
+    },
+    {"id": "id079", "name": "Jennifer Logan", "access": "00100010001100011"
+    },
+    {"id": "id080", "name": "Herr Hanns Franke", "access": "00010110000110110"
+    },
+    {"id": "id081", "name": "Laura Ryan", "access": "00000000101011100"
+    },
+    {"id": "id082", "name": "Nils Larsson-Larsson", "access": "10001111110111101"
+    },
+    {"id": "id083", "name": "Fredrik Fransson Larsson", "access": "01100110111000000"
+    },
+    {"id": "id084", "name": "Anna-Lena Johansson Berggren", "access": "11101000001000010"
+    },
+    {"id": "id085", "name": "Nils Danielsson", "access": "10110111010010001"
+    },
+    {"id": "id086", "name": "Janus Johann", "access": "00010010111101001"
+    },
+    {"id": "id087", "name": "Amy Frederick", "access": "00100001001001101"
+    },
+    {"id": "id088", "name": "Elisabeth Ahmed Sandin", "access": "00010101000010110"
+    },
+    {"id": "id089", "name": "Alan Davis", "access": "00010100100010001"
+    },
+    {"id": "id090", "name": "Barbro Månsson-Lilja", "access": "10000110100110000"
+    },
+    {"id": "id091", "name": "Jesus Garrett", "access": "01001101010010110"
+    },
+    {"id": "id092", "name": "Vincent Kusch", "access": "10001100100100000"
+    },
+    {"id": "id093", "name": "Linda Simmons", "access": "01000110000100100"
+    },
+    {"id": "id094", "name": "Mohamed Köster", "access": "10101000001011100"
+    },
+    {"id": "id095", "name": "Hatice Hornich", "access": "00001101001011000"
+    },
+    {"id": "id096", "name": "Mike Johns", "access": "00000101010111111"
+    },
+    {"id": "id097", "name": "Donna Mullen", "access": "01101010011000101"
+    },
+    {"id": "id098", "name": "Marianne Hallberg-Ström", "access": "10010111100100001"
+    },
+    {"id": "id099", "name": "Cäcilia Rörricht", "access": "11010010100010100"
+    },
+    {"id": "id100", "name": "Camilla Bergström", "access": "10100000100111001"
+    },
+    {"id": "id101", "name": "Karin Lindfors", "access": "10111000001100000"
+    },
+    {"id": "id102", "name": "Alma Löffler", "access": "11111010101000010"
+    },
+    {"id": "id103", "name": "Hans Georg Liebelt-Kraus", "access": "01100001000011001"
+    },
+    {"id": "id104", "name": "Jason Robinson", "access": "00010100010110000"
+    },
+    {"id": "id105", "name": "Katarina Malm", "access": "00110010010011000"
+    },
+    {"id": "id106", "name": "Sybilla Hermighausen-Zimmer", "access": "10110100000000010"
+    },
+    {"id": "id107", "name": "Alma Friberg", "access": "00000000011001001"
+    },
+    {"id": "id108", "name": "Tyler Taylor", "access": "00000000001110000"
+    },
+    {"id": "id109", "name": "Siegfried Gieß", "access": "10101110000111110"
+    },
+    {"id": "id110", "name": "Martin Pieper", "access": "00001010000010011"
+    },
+    {"id": "id111", "name": "Joseph Paul", "access": "00110101000100000"
+    },
+    {"id": "id112", "name": "Linnéa Eriksson", "access": "10110110000010100"
+    },
+    {"id": "id113", "name": "Margareta Sandberg", "access": "10001100111111001"
+    },
+    {"id": "id114", "name": "Meral Klingelhöfer-Zobel", "access": "00000101010100010"
+    },
+    {"id": "id115", "name": "Robert Hedman", "access": "10111100011001100"
+    },
+    {"id": "id116", "name": "Harry Lundgren", "access": "01010101011100110"
+    },
+    {"id": "id117", "name": "Univ.Prof. Leyla Jockel B.A.", "access": "11011100110010101"
+    },
+    {"id": "id118", "name": "Carl Stenberg", "access": "00010110000010101"
+    },
+    {"id": "id119", "name": "Sandy Park", "access": "01001101000000101"
+    }
+]
